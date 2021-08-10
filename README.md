@@ -1,3 +1,9 @@
+This is a modification for testing purposes by Tyler Bouchard.
+The following is the original information as presented:
+# ---------------------------------------------------------------
+
+
+
 # Sentinel.Example 1.0.7-SNAPSHOT
 Works with ![Sentinel](https://img.shields.io/github/v/release/dougnoel/sentinel?color=gree&include_prereleases&style=plastic)
 
